@@ -11,6 +11,11 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
 
 *(Próximos desafios serão adicionados aqui conforme avançar no estudo.)*
 
+- **Desafio 03 — Tabuada Interativa 🧮**  
+  Arquivo: `desafio03_tabuada_interativa.py`  
+  - Programa que pede um número ao usuário e exibe a tabuada de 1 a 10 usando `for` e `while`.  
+  - Ao final, pergunta se o usuário quer continuar gerando outras tabuadas.
+
 ## 🚀 Como executar
 1. Instale o Python 3.11+  
 2. No terminal, dentro da pasta do projeto:
@@ -33,6 +38,7 @@ Condicionais (if / elif / else)
 ~~~text
 python-desafios/
 ├─ desafio_diario_Pyhton_Calculadora_de_IMC.py
+├─ desafio03_tabuada_interativa.py
 └─ README.md
 ~~~
 
