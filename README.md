@@ -16,6 +16,12 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
   - Programa que pede um número ao usuário e exibe a tabuada de 1 a 10 usando `for` e `while`.  
   - Ao final, pergunta se o usuário quer continuar gerando outras tabuadas.
 
+- **Desafio 04 — Adivinhe o Número 🎲**  
+  Arquivo: `desafio04_adivinhe_numero.py`  
+  - Jogo onde o computador escolhe um número entre 1 e 100 e o usuário tenta adivinhar.  
+  - Mostra dicas de “muito alto” ou “muito baixo” e conta tentativas.
+
+
 ## 🚀 Como executar
 1. Instale o Python 3.11+  
 2. No terminal, dentro da pasta do projeto:
