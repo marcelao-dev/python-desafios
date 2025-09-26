@@ -26,6 +26,7 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
 1. Instale o Python 3.11+  
 2. No terminal, dentro da pasta do projeto:
    ```bash
+   #MAC:
    python nome_do_arquivo.py
    # ou no Windows:
    py nome_do_arquivo.py
