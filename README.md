@@ -46,6 +46,7 @@ Condicionais (if / elif / else)
 python-desafios/
 ├─ desafio_diario_Pyhton_Calculadora_de_IMC.py
 ├─ desafio03_tabuada_interativa.py
+├─ desafio04_adivinhe_numero.py
 └─ README.md
 ~~~
 
