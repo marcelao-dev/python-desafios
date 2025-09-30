@@ -5,11 +5,9 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
 
 ## 📚 Conteúdo
 - **Desafio 01 e 02 — IMC Básico + Classificação**  
-  Arquivo: `desafio_diario_Pyhton_Calculadora_de_IMC.py`  
+  Arquivo: `desafio01_02_Calculadora_de_IMC.py`  
   - **Desafio 01:** calculadora simples de IMC (entrada de dados, variáveis e tipos).  
   - **Desafio 02:** classificação do IMC com condicionais `if / elif / else`.
-
-*(Próximos desafios serão adicionados aqui conforme avançar no estudo.)*
 
 - **Desafio 03 — Tabuada Interativa 🧮**  
   Arquivo: `desafio03_tabuada_interativa.py`  
@@ -21,6 +19,10 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
   - Jogo onde o computador escolhe um número entre 1 e 100 e o usuário tenta adivinhar.  
   - Mostra dicas de “muito alto” ou “muito baixo” e conta tentativas.
 
+- **Desafio 05 — Cronômetro com Contagem Regressiva ⏱️**  
+  Arquivo: `desafio05_cronometro.py`  
+  - Usuário informa um tempo em segundos, o programa converte para `h:m:s` e faz contagem regressiva com pausa de 1s.  
+  - Ao final, emite um som usando `winsound.Beep()` para sinalizar que o tempo acabou.
 
 ## 🚀 Como executar
 1. Instale o Python 3.11+  
@@ -44,9 +46,10 @@ Condicionais (if / elif / else)
 
 ~~~text
 python-desafios/
-├─ desafio_diario_Pyhton_Calculadora_de_IMC.py
+├─ desafio01_02_Calculadora_de_IMC.py
 ├─ desafio03_tabuada_interativa.py
 ├─ desafio04_adivinhe_numero.py
+├─ desafio05_cronometro.py
 └─ README.md
 ~~~
 
