@@ -24,6 +24,11 @@ Objetivo: praticar lógica, boas práticas e construir um portfólio simples e c
   - Usuário informa um tempo em segundos, o programa converte para `h:m:s` e faz contagem regressiva com pausa de 1s.  
   - Ao final, emite um som usando `winsound.Beep()` para sinalizar que o tempo acabou.
 
+- **Desafio 06 — Lista de Tarefas Interativa ✅**  
+  Arquivo: `desafio06_lista_tarefas.py`  
+  - Menu interativo que permite **adicionar**, **listar** e **remover** tarefas.  
+  - Uso de `while True`, listas (`append`/`pop`), `enumerate()` e tratamento de erros com `try/except`.
+
 ## 🚀 Como executar
 1. Instale o Python 3.11+  
 2. No terminal, dentro da pasta do projeto:
@@ -50,7 +55,9 @@ python-desafios/
 ├─ desafio03_tabuada_interativa.py
 ├─ desafio04_adivinhe_numero.py
 ├─ desafio05_cronometro.py
+├─ desafio06_lista_tarefas.py
 └─ README.md
+
 ~~~
 
 > Futuramente, cada desafio será separado em arquivos individuais, ex:  
